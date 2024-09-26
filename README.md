@@ -21,7 +21,8 @@
 
 
 # SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/VArchiver.png?raw=true)
+![Aplikasi Gue](![image](https://github.com/user-attachments/assets/d3a17035-8e11-48d9-91a1-482d62ccf589)
+)
 
 |  Grafika Komputer  |
 
