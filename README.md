@@ -18,9 +18,9 @@
 | 4 | background(255, 0, 0) | mengatur warna latar belakang menjadi merah |
 | 5 | circle() | digunakan untuk menggambar lingkaran di layar. |
 
+
 # SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/VArchiver.png?raw=true)
 
-| VArchiver - Program Shell - UAS Praktikum Sistem Operasi |
+|  Grafika Komputer  |
 
-kalian rubah sesuai kebutuhan format
