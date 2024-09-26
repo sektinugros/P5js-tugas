@@ -1,12 +1,9 @@
-# P5js-tugas
-snip code ini
-
 # Data Diri
 
 |  |  |
 |--|--|
-| NIM | *21104410049* |
-| Nama Lengkap | *Viery Nugroho* |
+| NIM | *22104410071* |
+| Nama Lengkap | *Sektio Nugroho* |
 | Kelas | TI-4B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
@@ -15,14 +12,12 @@ snip code ini
 |  |  |  |
 |--|--|--|
 |*No| **Fitur* | *Detail* |
-| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah **ls -l** |
-| 2 | Hapus File/Folder | Menghapus file dari sebuah direktori dengan perintah **rm -i** dan menghapus sebuah folder dengan perintah **rm -r|
-| 3 | Copy File | Menyalin file dengan perintah **cp** |
-| 4 | Move File | Memeindahkan file dengan perintah **mv** |
-| 5 | Kompres File | Mengompres file dengan perintah **gzip -c** |
-| 6 | Ekstrak File | Mengekstrak file terkompres dengan perintah **gunzip** |
-| 7 | Kompres Folder | Mengompres folder dengan perintah **tar -czf** |
-| 8 | Ekstrak Folder | Mengekstrak folder dengan perintah **tar -xf** |
+| 1 | setup() | fungsi yang hanya dijalankan satu kali di awal program. |
+| 2 | createCanvas(640, 480) | membuat kanvas dengan lebar 640 piksel dan tinggi 480 piksel.|
+| 3 | draw() | fungsi yang berjalan berulang-ulang secara terus-menerus. P5.js akan mengeksekusi fungsi ini setiap frame. Semua kode di dalam draw() akan terus dieksekusi ulang. |
+| 4 | background(255, 0, 0) | mengatur warna latar belakang menjadi merah |
+| 5 | circle() | digunakan untuk menggambar lingkaran di layar. |
+
 # SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/VArchiver.png?raw=true)
 
